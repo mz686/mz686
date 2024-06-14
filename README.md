@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🌱 I’m currently learning Java on hyperskill.org and relearning CSS and JS
+
 <!--
 **mz686/mz686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
